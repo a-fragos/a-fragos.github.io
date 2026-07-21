@@ -316,4 +316,8 @@ a:hover{
         width: calc(100% - 15pt);
     }
     
+    #price{
+        font-size: 16pt;
+    } 
+    
 }
