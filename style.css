@@ -318,6 +318,18 @@ a:hover{
     
     #price{
         font-size: 16pt;
-    } 
+    }
+    
+    #reserve{
+        width: 10%;
+    }
+    
+}
+
+@media screen and (max-width: 350px) {
+    
+    #reserve{
+        display: none;
+    }
     
 }
